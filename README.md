@@ -1,1 +1,1 @@
-This is my first project in machine learning where I have used the K-nearest neighbour algorithm which works on euclidean distance to predict the nearest neighbours in the iris species dataset
+This is my first project in machine learning where I have used the K-nearest neighbour algorithm which works on euclidean distance to predict the nearest neighbours in the iris species dataset.The optimum k value is found out by the plot between k values and mean error.Atlast I have achieved 100% accuracy in it.
